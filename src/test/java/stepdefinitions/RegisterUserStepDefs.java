@@ -42,8 +42,8 @@ public class RegisterUserStepDefs {
 
     @When("user enters name and email")
     public void user_enters_name_and_email() {
-        mainPageFunctionalities.nameBox.sendKeys("Recepppp");
-        mainPageFunctionalities.emailBox.sendKeys("recepppprecep@gmail.com");
+        mainPageFunctionalities.nameBox.sendKeys("Receeep");
+        mainPageFunctionalities.emailBox.sendKeys("recepppep@gmail.com");
 
     }
 
