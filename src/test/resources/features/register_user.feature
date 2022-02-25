@@ -4,7 +4,7 @@ Feature: Register_User_Functionality
     When user launches the browser
     And user navigates to home page
     Then user verifies home page is visible
-    Then user clicks on signup button
+    Then user clicks signup button
     Then user verifies new user signup is visible
 
   Scenario: TC01_signup_user

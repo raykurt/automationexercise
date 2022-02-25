@@ -1,7 +1,7 @@
 @Contactus_form
 Feature: Fill contact us form
 
-  @Contactus_form
+  @Contactus_form @vip
   Scenario:TC06_contactUs_uploadFile
 
     When user launches the browser
